@@ -13,10 +13,6 @@ A responsive, modern, and visually appealing website template for a digital agen
 - [Usage](#usage)  
 - [Responsive Design](#responsive-design)  
 - [Folder Structure](#folder-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)
-
 ---
 
 ## Overview
